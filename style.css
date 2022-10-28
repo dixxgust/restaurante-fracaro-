@@ -8,4 +8,9 @@ body
     color:blue;
     
 }
+p {
+    font-size:25px;
+    text-align: center;
+    color: black;
+}
 /*  */
